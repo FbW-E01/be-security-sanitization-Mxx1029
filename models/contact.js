@@ -8,6 +8,7 @@ const contactSchema = new Schema({
     country: String,
     message: String,
     name: String,
+    email: String,
     telephone: String,
 });
 
